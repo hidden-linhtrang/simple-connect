@@ -9,6 +9,5 @@
 <img width="648" height="214" alt="{E6E7C838-31F0-4246-BECD-CD1D926955EC}" src="https://github.com/user-attachments/assets/bb1853f9-ccfd-4265-b731-87ee2dc8b696" />
 
 - Ngoài ra dự án sẽ tiếp tục hoạt động bằng việc cải thiện các chức năng và đặc biệt là khả năng mã hóa.
-
-  
-  <img width="2048" height="2048" alt="simple-connect" src="https://github.com/user-attachments/assets/1f8a8459-2666-4529-84c3-1c2ff22cd8f0" />
+- Release sớm nhất là khi cái ngày mà tôi và con AI nó nhét được cái mã hóa nào tốt vào cái file code và build thành công.
+- Rất cảm ơn vì đã đọc...
